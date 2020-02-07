@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cat Breed Identifier</string>
+    <string name="evaluate_button_title">What Cat Breed is it? </string>
+    <string name="reset_button_title">Restart</string>
+    <string name="catbreed_percentage">Confidence Rating: %.0f%%</string>
+    <string name="catbreed_label">This breed is: %1$s</string>
+</resources>
