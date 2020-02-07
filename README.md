@@ -7,7 +7,7 @@ Status: Usable but needs improvement for accuracy
 <img src="examples/success_3.png" width="500"/>
 
 ## How to use:
-Open app in Android-Studio and run on an Android phone.
+Download android-app directory, and open in Android-Studio. Build and run on an Android phone.
 
 ### Notes:
 Dataset is from [Oxford's pet dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/). However, it is missing many of the popular breeds, so I scraped some images from Google and Pinterest to make the datasets for other classes of cats. 
